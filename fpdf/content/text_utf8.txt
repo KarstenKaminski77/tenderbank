@@ -1,0 +1,1 @@
+﻿<p><b>tFpdf</b> base class is used and UTF8 characters are supported\n<b>Examples:</b> Σ ε φ ά η т а р и с ж  ن م ا ی ن د گ ا ن  کم</p>

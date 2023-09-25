@@ -1,0 +1,32 @@
+Changelog:
+
+2012.10.12 - 2.2.0
+ - code refactoring, structure changes, more examples
+
+2012.09.14 - 2.1.0
+    - line breaking characters can be changed programatically
+    - update of the licence agreement
+
+2012.05.21 - 2.0.7
+    - Bugfix(#284) - Bug with sub/superscript
+
+2012.05.14 - 2.0.6
+    - Feature(#298) - code beautifier - advanced multicell utf8
+    - BugFix(#297) - advanced multicell utf8 - incorrect line split
+    - Feature(#298) - code beautifier
+
+2012.04.04 - 2.0.5
+    - Bugfix(#285) - Wrong line breaking with special characters
+
+2012.03.12 - 2.0.4
+    - Bugfix(#283) - Empty content generated(multiple pdf documents)
+
+2012.03.04 - 2.0.3
+ - BUG #279 - justified alignment cutting off characters at the end of line
+
+2012.02.26
+ - BUG #278 - justified alignment not working with tFpdf
+ - BUG #277 - wordbreak not working correctly in case of nested tags
+
+2012.02.02 
+ - FEATURE - fpdf Advanced Multicell functionality was ported to work with tFpdf
